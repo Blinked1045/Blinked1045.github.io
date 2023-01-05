@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+Hello! This is a tiny website I made for myself to blog, post art, and share all sorts of cool things. Follow me on Mastodon at [rhycadiancirthms@mastodon.online](https://mastodon.online/@rhycadiancirthms)!
