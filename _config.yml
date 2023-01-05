@@ -40,6 +40,7 @@ navigation_links:
     url: /search
 
 # Footer icons
+footer_links:
   - title: Mastodon
     url: https://mastodon.online/@rhycadiancirthms
     icon: fa fa-mastodon-square
