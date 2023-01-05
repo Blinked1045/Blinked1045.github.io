@@ -45,13 +45,9 @@ footer_links:
     url: https://mastodon.online/@rhycadiancirthms
     icon: fa fa-mastodon-square
     
-  - title: Pixelfed
-    url: https://pixelfed.social/i/web/profile/495573341935047498
-    icon: fa fa-aperture
-    
   - title: View GitHub Repository 
     url: https://github.com/Blinked1045/Blinked1045.github.io
-    icon: fa fa-code-branch-square
+    icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
 copyright: "Except where otherwise noted, content on this website is licensed as [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
