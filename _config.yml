@@ -40,24 +40,15 @@ navigation_links:
     url: /search
 
 # Footer icons
-footer_links:
-  - title: Feed
-    url: feed.xml
-    icon: fa fa-rss-square
-
-  - title: Twitter
-    url: https://twitter.com/jekyllrb
-    icon: fa fa-twitter-square
-
-  - title: GitHub
-    url: https://github.com/forever-jekyll
-    icon: fa fa-github-square
+  - title: Mastodon
+    url: https://mastodon.online/@rhycadiancirthms
+    icon: fa fa-mastodon-square
 
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
 # Time zone
-timezone: null
+timezone: America/Nassau
 
 # Excerpt separator
 excerpt_separator: <!--more-->
