@@ -50,7 +50,7 @@ footer_links:
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
-copyright: "Except where otherwise noted, content on this website is licensed as [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+# copyright: "Except where otherwise noted, content on this website is licensed as [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 
 # Time zone
 timezone: America/Nassau
